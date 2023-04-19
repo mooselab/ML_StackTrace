@@ -1,4 +1,9 @@
-![](https://www.polymtl.ca/create-seed/sites/create-seed.amigow2020.polymtl.ca/files/uni_poly_fr.png)![](https://www.hengli.org/images/logo_final_smallest.png)
+<p align="center">
+ <img align="right" src="https://www.polymtl.ca/create-seed/sites/create-seed.amigow2020.polymtl.ca/files/uni_poly_fr.png">
+ <img align="left"  src="https://www.hengli.org/images/logo_final_smallest.png">
+</p>
+
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 ## SOTorrent Queries:
 
