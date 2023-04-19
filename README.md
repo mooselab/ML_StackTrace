@@ -1,6 +1,11 @@
 ![](https://www.polymtl.ca/create-seed/sites/create-seed.amigow2020.polymtl.ca/files/uni_poly_fr.png)![](https://www.hengli.org/images/logo_final_smallest.png)
 
-## Approach 1: Runing the project From GitHub:
+## SOTorrent Queries:
+
+On [this](https://github.com/ghadesi/db-scripts/tree/master/sotorrent) repository, we mentioned completely all queries that we used for generating the data.
+
+## Fast Run (Approach 1):
+Running just the result code.
 ## Structure
 ```bash
 ├── CSV_data/
@@ -18,7 +23,8 @@
 ├── Results.ipynb                   <~~~~ You can find all information that helps us to generate plots and tables.
 └── requirements.txt                <~~~~ Requirement packages
 ```
-## Approach 2: Runing the project with the whole dependenciy files: [Downlaod Link](https://zenodo.org/record/7839032#.ZD3G6-xudgc)
+## Complete Run (Approach 2): 
+Running the project with the whole dependency files: [Downlaod Link](https://zenodo.org/record/7839032#.ZD3G6-xudgc)
 ## Structure
 ```bash
 ├── README.md
