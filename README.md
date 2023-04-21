@@ -14,13 +14,13 @@ Running just the result code.
 ├── Excel_data/                     <~~~~ All the sheets related to the empirical studies
 ├── Pickle_data/
 ├── Result/                         <~~~~ Result plots
-├── Project_1_hugh_v2.ipynb         =|
-├── Project_1_keras_v2.ipynb         |
-├── Project_1_nltk_v2.ipynb          |
-├── Project_1_pt_v2.ipynb            | <~~~~ All library codes: The structure of all files. 
-├── Project_1_sklearn_v2.ipynb       |       However, there are some small changes in each library. 
-├── Project_1_spark.ipynb            |       (For checking you can check the Spark file.)
-├── Project_1_tf_v2.ipynb           =|
+├── ML_ST_hugh_v2.ipynb         =|
+├── ML_ST_keras_v2.ipynb         |
+├── ML_ST_nltk_v2.ipynb          |
+├── ML_ST_pt_v2.ipynb            | <~~~~ All library codes: The structure of all files. 
+├── ML_ST_sklearn_v2.ipynb       |       However, there are some small changes in each library. 
+├── ML_ST_spark.ipynb            |       (For checking you can check the Spark file.)
+├── ML_ST_tf_v2.ipynb           =|
 ├── README.md
 ├── Results.ipynb                   <~~~~ You can find all information that helps us to generate plots and tables.
 └── requirements.txt                <~~~~ Requirement packages
