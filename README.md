@@ -1,3 +1,32 @@
+<p align="center">
+ <img align="right"  src="https://www.hengli.org/images/logo_final_smallest.png">
+</p>
+
+## SOTorrent Queries:
+
+On [this](https://github.com/ghadesi/db-scripts/tree/master/sotorrent) repository, we mentioned completely all queries that we used for generating the data.
+
+## Fast Run (Approach 1):
+Running just the result code.
+## Structure
+```bash
+├── CSV_data/
+├── Excel_data/                     <~~~~ All the sheets related to the empirical studies
+├── Pickle_data/
+├── Result/                         <~~~~ Result plots
+├── Project_1_hugh_v2.ipynb         =|
+├── Project_1_keras_v2.ipynb         |
+├── Project_1_nltk_v2.ipynb          |
+├── Project_1_pt_v2.ipynb            | <~~~~ All library codes: The structure of all files. 
+├── Project_1_sklearn_v2.ipynb       |       However, there are some small changes in each library. 
+├── Project_1_spark.ipynb            |       (For checking you can check the Spark file.)
+├── Project_1_tf_v2.ipynb           =|
+├── README.md
+├── Results.ipynb                   <~~~~ You can find all information that helps us to generate plots and tables.
+└── requirements.txt                <~~~~ Requirement packages
+```
+## Complete Run (Approach 2): 
+Running the project with the whole dependency files: [Downlaod Link](https://zenodo.org/record/7839032#.ZD3G6-xudgc)
 ## Structure
 ```bash
 ├── README.md
@@ -22,7 +51,6 @@
 │   ├── README.md                    <~~~~ Extract posts from SOTorrent
 │   └── sotorrent 
 ```
-## Runing the project:
 0. Please, change your directory to the place that you downlowded the file.
  ```console
  Linux$ cd [Downloade directory]
