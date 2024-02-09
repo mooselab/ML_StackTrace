@@ -2,13 +2,16 @@
  <img align="right"  src="https://www.hengli.org/images/logo_final_smallest.png">
 </p>
 
+> :zap: For the sake of simplicity, the code has been compartmentalized into distinct libraries. Nonetheless, minor adjustments have been made to regular expressions and conditions. If you intend to examine the code, kindly refer to the 'ML_ST_spark.ipynb' file for your perusal.
+
 ## SOTorrent Queries:
 
 On [this](https://github.com/ghadesi/db-scripts/tree/master/sotorrent) repository, we mentioned completely all queries that we used for generating the data.
 
 ## Fast Run (Approach 1):
-Running just the result code.
-## Structure
+The 'Results.ipynb' file gathered all information from all library codes and the article plots generated through this file.
+
+## Code Structure
 ```bash
 ├── CSV_data/
 ├── Excel_data/                     <~~~~ All the sheets related to the empirical studies
@@ -22,7 +25,7 @@ Running just the result code.
 ├── ML_ST_spark.ipynb                |       (For checking you can check the Spark file.)
 ├── ML_ST_tf_v2.ipynb               =|
 ├── README.md
-├── Results.ipynb                   <~~~~ You can find all information that helps us to generate plots and tables.
+├── Results.ipynb                   <~~~~ You can find all the information that helps us to generate plots and tables.
 └── requirements.txt                <~~~~ Requirement packages
 ```
 ## Complete Run (Approach 2): 
